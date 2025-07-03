@@ -2,6 +2,12 @@
 
 A continuación se listan los enlaces a la documentación oficial de cada tecnología utilizada en el proyecto:
 
+### 📝 **CQRS (Command Query Responsibility Segregation)**
+- [Introducción a CQRS - Microsoft Docs](https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs)
+- [Martin Fowler sobre CQRS](https://martinfowler.com/bliki/CQRS.html)
+- [CQRS con Event Sourcing](https://microservices.io/patterns/data/cqrs.html)
+- [Implementación CQRS en Spring Boot (Baeldung)](https://www.baeldung.com/cqrs-event-sourcing-java)
+
 ### 🚀 **Apache Kafka**
 - [Documentación Oficial](https://kafka.apache.org/documentation/)
 - [Guía de Inicio Rápido](https://kafka.apache.org/quickstart)

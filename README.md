@@ -14,7 +14,7 @@ A continuación se listan los enlaces a la documentación oficial de cada tecnol
 
 ### ☕ **Java**
 - [Java SE Documentation](https://docs.oracle.com/en/java/javase/)
-- [Java API Reference](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) *(ajustar a la versión que uses: 8, 11, 17, etc.)*
+- [Java API Reference](https://docs.oracle.com/en/java/javase/17/docs/api/index.html) 
 - [OpenJDK Documentation](https://openjdk.org/)
 
 ### ⚙️ **Jenkins**
